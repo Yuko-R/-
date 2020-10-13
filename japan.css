@@ -1,0 +1,17 @@
+body{
+	background-color: white;
+}
+#frame{
+	background-color: white;
+	height: 700px;
+	width: 1200px;
+	border: 1px solid black
+}
+#center{
+	background-color: red;
+	height: 500px;
+	width: 500px;
+	border-radius: 50%;
+	margin: 10% 30%;
+
+}
